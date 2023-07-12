@@ -1,2 +1,2 @@
 # Learnig-Javascript
-Learnig-Javascript
+Learning-Javascript
